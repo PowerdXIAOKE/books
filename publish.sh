@@ -4,6 +4,7 @@
 git pull
 
 index=README.md
+base='https://cdn.jsdelivr.net/gh/gfw-breaker/books.md1/resources'
 
 ## README page
 cat > $index << EOF
@@ -20,7 +21,10 @@ EOF
 while read line; do
 	key=$(echo $line | cut -d',' -f1)
 	name=$(echo $line | cut -d',' -f2)
-	echo "| 《$name》 | [TXT格式](https://y2mate.com/zh-cn/search/$id) | [PDF格式]($srt?raw=true) | [EPUB格式]($srtTw?raw=true) |" >> $index
+	txt=$base/$key.txt
+	pdf=$base/$key.pdf
+	epub=$base/$key.epub
+	echo "| 《$name》 | [TXT格式]($txt) | [PDF格式]($pdf) | [EPUB格式]($epub) |" >> $index
 done < index.csv
 
 ## commit
