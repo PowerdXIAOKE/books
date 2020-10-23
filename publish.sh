@@ -4,7 +4,7 @@
 git pull
 
 index=README.md
-base='https://cdn.jsdelivr.net/gh/gfw-breaker/books.md/resources'
+base='https://cdn.jsdelivr.net/gh/gfw-breaker/books/resources'
 
 ## README page
 cat > $index << EOF
