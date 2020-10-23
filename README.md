@@ -5,7 +5,7 @@
 
 | 书名 | 下载 | 下载 | 下载 |
 |---|---|---|---|
-| 《墓碑 – 中国六十年代大饥荒纪实》 | - | [PDF格式](https://cdn.jsdelivr.net/gh/gfw-breaker/books/resources/gravestone.pdf) | [EPUB格式](https://cdn.jsdelivr.net/gh/gfw-breaker/books/resources/gravestone.epub) |
+| 《墓碑 – 中国六十年代大饥荒纪实》 | - | [PDF格式](https://cdn.jsdelivr.net/gh/gfw-breaker/books/resources/grave-stone.pdf) | [EPUB格式](https://cdn.jsdelivr.net/gh/gfw-breaker/books/resources/grave-stone.epub) |
 | 《历史的先声 – 半个世纪前的庄严承诺》 | [TXT格式](https://cdn.jsdelivr.net/gh/gfw-breaker/books/resources/lsxs.txt) | [PDF格式](https://cdn.jsdelivr.net/gh/gfw-breaker/books/resources/lsxs.pdf) | - |
 | 《赵紫阳：改革历程》 | [TXT格式](https://cdn.jsdelivr.net/gh/gfw-breaker/books/resources/zzy_gglc.txt) | [PDF格式](https://cdn.jsdelivr.net/gh/gfw-breaker/books/resources/zzy_gglc.pdf) | - |
 | 《九评共产党》 | [TXT格式](https://cdn.jsdelivr.net/gh/gfw-breaker/books/resources/9ping.txt) | [PDF格式](https://cdn.jsdelivr.net/gh/gfw-breaker/books/resources/9ping.pdf) | [EPUB格式](https://cdn.jsdelivr.net/gh/gfw-breaker/books/resources/9ping.epub) |
