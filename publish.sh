@@ -21,10 +21,19 @@ EOF
 while read line; do
 	key=$(echo $line | cut -d',' -f1)
 	name=$(echo $line | cut -d',' -f2)
-	txt=$base/$key.txt
-	pdf=$base/$key.pdf
-	epub=$base/$key.epub
-	echo "| 《$name》 | [TXT格式]($txt) | [PDF格式]($pdf) | [EPUB格式]($epub) |" >> $index
+	txt='-'
+	pdf='-'
+	epub='-'
+	if [ -f resources/$key.txt ]; then
+		txt="[TXT格式]($base/$key.txt)"
+	fi
+	if [ -f resources/$key.pdf ]; then
+		pdf="[PDF格式]($base/$key.pdf)"
+	fi
+	if [ -f resources/$key.epub ]; then
+		epub="[EPUB格式]($base/$key.epub)"
+	fi
+	echo "| 《$name》 | $txt | $pdf | $epub |" >> $index
 done < index.csv
 
 ## commit
