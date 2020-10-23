@@ -12,7 +12,7 @@ cat > $index << EOF
 ---
 ##### 友情链接：[免翻墙看禁闻](https://github.com/gfw-breaker/banned-news3) &nbsp;|&nbsp; [翻墙软件下载](https://github.com/gfw-breaker/nogfw)
 
-| 书名 | - | - | - |
+| 书名 | 下载 | 下载 | 下载 |
 |---|---|---|---|
 EOF
 
