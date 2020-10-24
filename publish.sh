@@ -21,9 +21,9 @@ EOF
 while read line; do
 	key=$(echo $line | cut -d',' -f1)
 	name=$(echo $line | cut -d',' -f2)
-	txt='-'
-	pdf='-'
-	epub='-'
+	#txt='-'
+	#pdf='-'
+	#epub='-'
 	if [ -f resources/$key.txt ]; then
 		txt="[TXT格式]($base/$key.txt)"
 	fi
