@@ -15,5 +15,11 @@
 | 《1400例谎言的背后》 | - | [PDF格式](https://cdn.jsdelivr.net/gh/gfw-breaker/books/resources/1400zx.pdf) | - |
 | 《活摘：无法掩盖的罪证》 | - | [PDF格式](https://cdn.jsdelivr.net/gh/gfw-breaker/books/resources/organ.pdf) | - |
 | 《天安门自焚伪案揭秘》 | - | [PDF格式](https://cdn.jsdelivr.net/gh/gfw-breaker/books/resources/zifen.pdf) | - |
+| 《中国的和平转型之路》 | - | [PDF格式](https://cdn.jsdelivr.net/gh/gfw-breaker/books/resources/hpzx.pdf) | - |
+| 《中国六四真相》 | - | [PDF格式](https://cdn.jsdelivr.net/gh/gfw-breaker/books/resources/64.pdf) | - |
+| 《文革受难者》 | - | [PDF格式](https://cdn.jsdelivr.net/gh/gfw-breaker/books/resources/wenge-victims.pdf) | - |
+| 《毛泽东-鲜为人知的故事》 | - | [PDF格式](https://cdn.jsdelivr.net/gh/gfw-breaker/books/resources/mzd.pdf) | - |
+| 《红太阳是怎样升起的：延安整风运动的来龙去脉》 | - | [PDF格式](https://cdn.jsdelivr.net/gh/gfw-breaker/books/resources/yanan.pdf) | - |
+| 《文化大革命十年史》 | [TXT格式](https://cdn.jsdelivr.net/gh/gfw-breaker/books/resources/wenge-10years.txt) | - | - |
 | 《毛泽东私人医生回忆录》 | [TXT格式](https://cdn.jsdelivr.net/gh/gfw-breaker/books/resources/mzdyshyl.txt) | [PDF格式](https://cdn.jsdelivr.net/gh/gfw-breaker/books/resources/mzdyshyl.pdf) | - |
 | 《江泽民其人》 | [TXT格式](https://cdn.jsdelivr.net/gh/gfw-breaker/books/resources/jzm.txt) | [PDF格式](https://cdn.jsdelivr.net/gh/gfw-breaker/books/resources/jzm.pdf) | [EPUB格式](https://cdn.jsdelivr.net/gh/gfw-breaker/books/resources/jzm.epub) |
