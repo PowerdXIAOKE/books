@@ -17,7 +17,7 @@
 | 《天安门自焚伪案揭秘》 | - | [PDF格式](https://cdn.jsdelivr.net/gh/gfw-breaker/books/resources/zifen.pdf) | - |
 | 《二十一世纪的古拉格真相》 | - | [PDF格式](https://cdn.jsdelivr.net/gh/gfw-breaker/books/resources/glg.pdf) | [EPUB格式](https://cdn.jsdelivr.net/gh/gfw-breaker/books/resources/glg.epub) |
 | 《明慧二十周年报告》 | - | - | [EPUB格式](https://cdn.jsdelivr.net/gh/gfw-breaker/books/resources/mh20.epub) |
-| 《中共意识形态之理性批判》 | - | - | [EPUB格式](https://cdn.jsdelivr.net/gh/gfw-breaker/books/resources/zgysxt.epub) |
+| 《中共意识形态之理性批判》 | - | [PDF格式](https://cdn.jsdelivr.net/gh/gfw-breaker/books/resources/zgysxt.pdf) | [EPUB格式](https://cdn.jsdelivr.net/gh/gfw-breaker/books/resources/zgysxt.epub) |
 | 《中国的和平转型之路》 | - | [PDF格式](https://cdn.jsdelivr.net/gh/gfw-breaker/books/resources/hpzx.pdf) | - |
 | 《中国六四真相》 | - | [PDF格式](https://cdn.jsdelivr.net/gh/gfw-breaker/books/resources/64.pdf) | - |
 | 《文革受难者》 | - | [PDF格式](https://cdn.jsdelivr.net/gh/gfw-breaker/books/resources/wenge-victims.pdf) | - |
