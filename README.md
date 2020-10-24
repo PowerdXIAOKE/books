@@ -15,6 +15,9 @@
 | 《1400例谎言的背后》 | - | [PDF格式](https://cdn.jsdelivr.net/gh/gfw-breaker/books/resources/1400zx.pdf) | - |
 | 《活摘：无法掩盖的罪证》 | - | [PDF格式](https://cdn.jsdelivr.net/gh/gfw-breaker/books/resources/organ.pdf) | - |
 | 《天安门自焚伪案揭秘》 | - | [PDF格式](https://cdn.jsdelivr.net/gh/gfw-breaker/books/resources/zifen.pdf) | - |
+| 《二十一世纪的古拉格真相》 | - | - | - |
+| 《明慧二十周年报告》 | - | - | - |
+| 《中共意识形态之理性批判》 | - | - | - |
 | 《中国的和平转型之路》 | - | [PDF格式](https://cdn.jsdelivr.net/gh/gfw-breaker/books/resources/hpzx.pdf) | - |
 | 《中国六四真相》 | - | [PDF格式](https://cdn.jsdelivr.net/gh/gfw-breaker/books/resources/64.pdf) | - |
 | 《文革受难者》 | - | [PDF格式](https://cdn.jsdelivr.net/gh/gfw-breaker/books/resources/wenge-victims.pdf) | - |
