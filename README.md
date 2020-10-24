@@ -20,6 +20,8 @@
 | 《文革受难者》 | - | [PDF格式](https://cdn.jsdelivr.net/gh/gfw-breaker/books/resources/wenge-victims.pdf) | - |
 | 《毛泽东-鲜为人知的故事》 | - | [PDF格式](https://cdn.jsdelivr.net/gh/gfw-breaker/books/resources/mzd.pdf) | - |
 | 《红太阳是怎样升起的：延安整风运动的来龙去脉》 | - | [PDF格式](https://cdn.jsdelivr.net/gh/gfw-breaker/books/resources/yanan.pdf) | - |
-| 《文化大革命十年史》 | [TXT格式](https://cdn.jsdelivr.net/gh/gfw-breaker/books/resources/wenge-10years.txt) | - | - |
+| 《文化大革命十年史》 | [TXT格式](https://cdn.jsdelivr.net/gh/gfw-breaker/books/resources/wenge_10years.txt) | - | - |
+| 《共产主义黑皮书》 | - | [PDF格式](https://cdn.jsdelivr.net/gh/gfw-breaker/books/resources/blackbook.pdf) | - |
+| 《辛灏年：谁是新中国 — 中国现代史辨》 | - | [PDF格式](https://cdn.jsdelivr.net/gh/gfw-breaker/books/resources/newchina.pdf) | - |
 | 《毛泽东私人医生回忆录》 | [TXT格式](https://cdn.jsdelivr.net/gh/gfw-breaker/books/resources/mzdyshyl.txt) | [PDF格式](https://cdn.jsdelivr.net/gh/gfw-breaker/books/resources/mzdyshyl.pdf) | - |
 | 《江泽民其人》 | [TXT格式](https://cdn.jsdelivr.net/gh/gfw-breaker/books/resources/jzm.txt) | [PDF格式](https://cdn.jsdelivr.net/gh/gfw-breaker/books/resources/jzm.pdf) | [EPUB格式](https://cdn.jsdelivr.net/gh/gfw-breaker/books/resources/jzm.epub) |
